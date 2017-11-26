@@ -2,7 +2,7 @@ package com.java.basic.classloading;
 
 /**
  * Created by : Rakesh Gupta on 11/26/17
- * Package : com.java.basic
+ * Package : com.java.basic.classloading
  */
 public class ClassLoadingTest {
     public static void main(String[] args) {
