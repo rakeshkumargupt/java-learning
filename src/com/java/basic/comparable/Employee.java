@@ -1,8 +1,8 @@
-package com.rakeshgupta.comparable;
+package com.java.basic.comparable;
 
 /**
- * Created by : Rakesh Gupta on 11/23/17
- * Package : com.rakeshgupta.comparable
+ * Created by : Rakesh Gupta on 11/27/17
+ * Package : com.java.basic.comparable
  */
 public class Employee implements Comparable{
     private int empId;

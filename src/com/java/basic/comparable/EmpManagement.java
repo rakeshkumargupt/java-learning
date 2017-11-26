@@ -1,12 +1,11 @@
-package com.rakeshgupta.comparable;
+package com.java.basic.comparable;
 
-import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
 /**
- * Created by : Rakesh Gupta on 11/23/17
- * Package : com.rakeshgupta.comparable
+ * Created by : Rakesh Gupta on 11/27/17
+ * Package : com.java.basic.comparable
  */
 public class EmpManagement {
     public static void main(String[] args) {
