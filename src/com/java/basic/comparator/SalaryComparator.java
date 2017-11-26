@@ -1,12 +1,12 @@
-package com.rakeshgupta.comparator;
+package com.java.basic.comparator;
 
-import com.rakeshgupta.comparable.Employee;
+import com.java.basic.comparable.*;
 
 import java.util.Comparator;
 
 /**
- * Created by : Rakesh Gupta on 11/23/17
- * Package : com.rakeshgupta.comparator
+ * Created by : Rakesh Gupta on 11/27/17
+ * Package : com.java.basic.comparable
  */
 public class SalaryComparator implements Comparator{
     Employee employee, employee2;

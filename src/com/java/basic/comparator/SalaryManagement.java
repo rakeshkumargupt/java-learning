@@ -1,14 +1,13 @@
-package com.rakeshgupta.comparator;
+package com.java.basic.comparator;
 
-import com.rakeshgupta.comparable.Employee;
-import com.rakeshgupta.comparable.EmployeeUtil;
+import com.java.basic.comparable.*;
 
 import java.util.Collections;
 import java.util.List;
 
 /**
- * Created by : Rakesh Gupta on 11/23/17
- * Package : com.rakeshgupta.comparator
+ * Created by : Rakesh Gupta on 11/27/17
+ * Package : com.java.basic.comparable
  */
 public class SalaryManagement {
     public static void main(String[] args) {
